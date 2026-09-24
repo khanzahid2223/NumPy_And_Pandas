@@ -1,0 +1,1 @@
+A collection of my NumPy and Pandas learning, practice, and hands-on exercises covering arrays, array properties, data manipulation, DataFrames, data analysis, and more as part of my AI Engineering journey.
